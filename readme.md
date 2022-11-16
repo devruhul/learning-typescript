@@ -5,9 +5,9 @@ a. [Build JavaScript applications by using TypeScript - Training | Microsoft Lea
 
 b. [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
-c. [Typescripot English  Tutoraial](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLZlA0Gpn_vH9AqUfDhYJ5JviqHdtpXyDC)
+c. [Typescripot English  Tutorial](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLZlA0Gpn_vH9AqUfDhYJ5JviqHdtpXyDC)
 
-d. [Typescripot Bangla  Tutoraial](https://www.youtube.com/watch?v=FQVsJjj5n70&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq)
+d. [Typescripot Bangla  Tutorial](https://www.youtube.com/watch?v=FQVsJjj5n70&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq)
 
 e. [React Typscript Bangla Tutorial](https://www.youtube.com/watch?v=OSw_sJ-lfU8&list=PLgH5QX0i9K3ruhkxHelhyahHEOH_82bGx)
 
