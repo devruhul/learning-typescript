@@ -8,23 +8,16 @@ let builtInTypes = {
   void: "void",
   null: "null",
   undefined: "undefined",
-  never: "never",
   Array: "Array",
   object: "object",
-  symbol: "symbol",
-  bigint: "bigint",
-  unknown: "unknown",
 };
 // console.log(builtInTypes);
 
-let userId: number = 1;
+let userId: number = 101;
 let userName: string = "John";
 let isUserActive: boolean = true;
-let userAge: number = 20;
-let userAddress: string = "New York";
-let userPhone: number = 1234567890;
 
-// console.log(userId, userName, isUserActive, userAge, userAddress, userPhone);
+// console.log(userId, userName, isUserActive);
 // use of void type
 function tellIloveUHundredTimes(number: number): void {
   for (let i = 0; i < number; i++) {
