@@ -13,7 +13,6 @@ e. [React Typscript Bangla Tutorial](https://www.youtube.com/watch?v=OSw_sJ-lfU8
 
 f. [Learn With Sumit Typescript Bangla Tutorial](https://www.youtube.com/watch?v=CHnTTzD1pAQ&list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3)
 
-g. [Typescript Github Documentaion Simpliofied version](https://github.com/anisul-Islam/typescript-documentation)
-TypeScript Documentation - anisul-Islam
+g. [Typescript Github Documentaion Simplified version](https://github.com/anisul-Islam/typescript-documentation)
 
-h. [My Typescript Note Doc Link](https://docs.google.com/document/d/1giboXTNYn-XNLLZ9G4vh5Sp3Cnm9W9fbpbLvXasxiMs/edit?usp=sharing)
+h. [My Typescript Note Google Doc Link](https://docs.google.com/document/d/1giboXTNYn-XNLLZ9G4vh5Sp3Cnm9W9fbpbLvXasxiMs/edit?usp=sharing)
