@@ -11,19 +11,19 @@ friends.push(friend1);
 // show all the keys of friend
 // console.log(Object.keys(friend1))
 // loop all the keys of friends and show the userName of each friend
-for (var key in friends) {
-    console.log(friends[key]["userName"]);
+for (var trash in friends) {
+    console.log(friends[trash]["userName"]);
 }
 // loop all the keys of friends and show the age of each friend
-for (var key in friends) {
-    console.log(friends[key]["age"]);
+for (var hello in friends) {
+    console.log(friends[hello]["age"]);
 }
 // show the username of friend1
 for (var key in friend1) {
-    console.log(friend1.userName);
+    // console.log(friend1.userName);
 }
 // show the age of friend
 for (var key in friend) {
-    console.log(friend.age);
+    // console.log(friend.age);
 }
 console.log(friends);
