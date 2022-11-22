@@ -10,7 +10,7 @@ class Friend {
     this.name = name;
   }
 
-  getFriend() {
+  getFriend(): void {
     console.log(
       `Name: ${this.name} Age: ${this.age} School: ${this.schoolName}`
     );
@@ -20,7 +20,7 @@ class Friend {
 let Rajib = new Friend("Jubilee High School", 60, "Rajib");
 Rajib.getFriend();
 
-let Pabel = new Friend("Jubilee High School", 60, "Pabel");
+let Pabel = new Friend("HMP High School", 30, "Pabel");
 Pabel.getFriend();
 
 console.log(Rajib);
