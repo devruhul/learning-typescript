@@ -1,3 +1,4 @@
+"use strict";
 // use union data type
 var union_data_type;
 union_data_type = "Hello";

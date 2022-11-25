@@ -1,10 +1,10 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var friend = {
     userName: "John",
     age: 60,
     schoolName: "Jubilee High School",
-    phone: 1234567890
+    phone: 1234567890,
 };
 // format json data in console
 // console.log(JSON.stringify(friend, null , 5));

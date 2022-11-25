@@ -1,3 +1,4 @@
+"use strict";
 // any type
 var anyType;
 anyType = "any type";

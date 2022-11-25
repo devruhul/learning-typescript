@@ -1,3 +1,4 @@
+"use strict";
 // enum types : numeric , string, hetrogenous
 // numeric enum
 var Direction;

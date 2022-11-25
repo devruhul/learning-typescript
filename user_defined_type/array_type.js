@@ -1,3 +1,4 @@
+"use strict";
 // use of a similar array type
 var arr = [1, 2, 3];
 var arr1 = [1, 2, 3];

@@ -1,3 +1,4 @@
+"use strict";
 // Class
 var Friend = /** @class */ (function () {
     function Friend(schoolName, age, name) {
@@ -12,6 +13,6 @@ var Friend = /** @class */ (function () {
 }());
 var Rajib = new Friend("Jubilee High School", 60, "Rajib");
 Rajib.getFriend();
-var Pabel = new Friend("Jubilee High School", 60, "Pabel");
+var Pabel = new Friend("HMP High School", 30, "Pabel");
 Pabel.getFriend();
 console.log(Rajib);

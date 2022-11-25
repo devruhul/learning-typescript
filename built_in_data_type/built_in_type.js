@@ -1,27 +1,21 @@
+"use strict";
 // built in data types
 var builtInTypes = {
     string: "string",
     number: "number",
     boolean: "boolean",
     any: "any",
-    "void": "void",
-    "null": "null",
+    void: "void",
+    null: "null",
     undefined: "undefined",
-    never: "never",
     Array: "Array",
     object: "object",
-    symbol: "symbol",
-    bigint: "bigint",
-    unknown: "unknown"
 };
 // console.log(builtInTypes);
-var userId = 1;
+var userId = 101;
 var userName = "John";
 var isUserActive = true;
-var userAge = 20;
-var userAddress = "New York";
-var userPhone = 1234567890;
-// console.log(userId, userName, isUserActive, userAge, userAddress, userPhone);
+// console.log(userId, userName, isUserActive);
 // use of void type
 function tellIloveUHundredTimes(number) {
     for (var i = 0; i < number; i++) {
@@ -52,7 +46,7 @@ var user2 = {
     age: 20,
     address: "New York",
     phone: 1234567890,
-    isActive: true
+    isActive: true,
 };
 console.log(user2);
 // use of symbol type
